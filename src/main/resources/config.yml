@@ -1,0 +1,15 @@
+Msgs:
+  BreakHead: "&aYou just cleared your head: &f{head_name}"
+  CreateCancel: "&aYou canceled the message creation process."
+  CreateComplete: "&aYou have completed the whole process. The head name was defined for: &f{head_name}"
+  ContainsDB: "&cYou already have a head with the same name in the database."
+  ConfirmName:
+  - "&eEnter the message that will be sent by clicking on the head."
+  - "&7If you want to cancel, reply 'cancel'."
+  HeadInfo:
+  - "       &7» &eHead information &7«"
+  - "&7• &eHead name: &7{head_name}"
+  - "&7• &eLocation: &7{location}"
+  - "&7• &ePlayer who placed: &7{player_name}"
+  - "&7• &eMessage: &f'{msg}&f'"
+  - " "

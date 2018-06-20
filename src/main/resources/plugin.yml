@@ -1,0 +1,7 @@
+name: HeadMsgs
+main: me.bigwriter.headmsgs.Main
+author: BigWriter
+version: 0.4
+description: Click in the head and give message.
+commands:
+    edithead:
